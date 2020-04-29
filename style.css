@@ -263,7 +263,7 @@ header nav ul li a.active
     position: fixed;
     height: 400px;
     width: 400px;
-    margin-left: 50px;
+  
     padding-bottom: 90px;
   }
   .hi11 {
@@ -290,5 +290,8 @@ header nav ul li a.active
   .row{
 
     height : 94vh;
+  }
+  .movee{
+    left:0;
   }
 }
