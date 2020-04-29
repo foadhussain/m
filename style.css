@@ -263,26 +263,26 @@ header nav ul li a.active
     position: fixed;
     height: 400px;
     width: 400px;
-  
+
     padding-bottom: 90px;
   }
   .hi11 {
    font-size: 5rem;
-   margin-left: 50px;
+   margin-left: 40px;
    color: #A9A9A9;
    position:  fixed;
    top: 20px;
   }
   .hi22 {
    font-size: 5rem;
-   margin-left: 50px;
+   margin-left: 40px;
    color: #696969;
    position:  fixed;
    top: 120px;
   }
   .hi33{
    font-size: 5rem;
-   margin-left: 50px;
+   margin-left: 40px;
    color: black;
    position:  fixed;
    top: 220px;
